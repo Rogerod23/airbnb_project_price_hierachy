@@ -1,0 +1,11 @@
+# datos (descargar de Inside Airbnb, no redistribuir)
+listings.csv
+listings.csv.gz
+
+# archivos de trabajo que no van al repo
+error.txt
+portfolio_reference_code.zip
+reference_code/
+bayesian/
+__pycache__/
+.ipynb_checkpoints/
